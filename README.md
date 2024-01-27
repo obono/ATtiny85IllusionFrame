@@ -23,9 +23,9 @@ You can toggle the mode by holding a button in 1 second.
 ### Components
 
 * A photo frame
-* A mirror and A one-way mirror
+* A mirror and a one-way mirror
 * ATtiny85
-* 1.54 Inch Transparent OLED Screen SSD1309 SPI
+* 1.54 inch 128&times;64 pixels transparent OLED screen SSD1309 SPI
 * WS2812 &times; 32
 * Resistors
   * 22k&Omega;
