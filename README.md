@@ -49,7 +49,7 @@ You can toggle the mode by holding a button in 1 second.
 
 ## Software
 
-### Build enviroment
+### Build environment
 
 [Install ATTinyCore boards to the Arduino IDE](https://github.com/SpenceKonde/ATTinyCore/blob/v2.0.0-devThis-is-the-head-submit-PRs-against-this/Installation.md) and configure the settings as follows.
 
